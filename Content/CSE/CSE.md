@@ -11,30 +11,33 @@
 
 ## Faculty Achievements  
 
-- **Dr. Daljeet Singh** became Nominee Member of Computer Society of India, Till 31st Oct, 2023.
-- **Dr. Kiranjyoti** joined as an Associate Professor in the department of Computer Science & Engineering.
+<div align = "justify"><div>
+
+-  **Dr. Daljeet Singh** became Nominee Member of Computer Society of India, Till 31st Oct, 2023.
+- **Dr. Kiran Jyoti** joined as an Associate Professor in the department of Computer Science & Engineering.
 - **Dr. Amit Jain** with his team published a Patent entitled “INTELLIGENT VIDEO MONITORING SYSTEM BASED ON DEEP LEARNING TECHNIQUES FOR AUTOMATIC SURVEILLANCE” vide application ID 202141026147.
 - **Dr. Amit Jain** with his team published a Patent entitled “AN IOT AND CLOUD COMPUTING ENABLED 5G SENSOR NETWORK FOR SMART CITY IMPLEMENTS” vide application ID 202111041401.
 
 
 ## Publications  
 
-- Bhambhri, P., Singh, M., **Amit Jain, Inderjit Singh Dhanoa**, Sinha, V. K., & Lal, S. (2021, June). Classification of Gene Expression Data with the Aid of Optimized Feature Selection. Turkish Journal of Physiotherapy and Rehabilitation, 32(3).
-- Deol, N. K., **Vivek Thapar, Jaswant Singh.** (2021, September). Movies Reviews Sentiment Analysis using Improved Random Forest Algorithm and ACO (Ant Colony Optimization) Approach. International Journal of Computer Sciences and Engineering, 9(9).
-- Isha, **Jasbir Singh Saini**, & Kaur, K. (2021, July). A Machine Learning Approach for Network Traffic Classification. International Journal of Engineering Research in Computer Science & Engineering, 8(7).
-- **Amit Jain**, Aggarwal, V., Kumar, R., & Pabla, H. S. (2021). Availability and Optimization of Continuous Manufacturing System Using Markov Modelling and Genetic Algorithm. International Conference on Communication and Artificial Intelligence. Mathura: Springer Lecture Notes in Networks and Systems.
-- **Amit Jain**, Singh, M., & Bhambri, P. (2021, February). Performance evaluation of IPv4-IPv6 tunneling procedure using IoT. Journal of Physics.
-- Kanika, **Vivek Thapar & Gurjit Kaur** (2021, July). Analysis of Various Image Blind Detection Techniques: Review. International Journal of Engineering Research in Computer Science & Engineering, 8(7).
-- Kanika, **Vivek Thapar & Gurjit Kaur** (2021, July). Image Blind Detection Using GLCM, ABC and Voting Classification Method. International Journal of Engineering Research in Computer Science & Engineering, 8(7).
-- Kaur, B., **Sumeet Kaur Sehra & Daljit Singh** (2021, July). An Ensemble Classification Model For Software Defect Prediction. International Journal of Engineering Research in Computer Science & Engineering, 8(7).
-- **kamaldeep Kaur & Parminder Singh** (2021, December). Punjabi Emotional Speech Database: Design, Recording and Verification. International Journal of Intelligent Systems and Applications in Engineering, 9(4).
-- **Manpreet Kaur**, Khan, M. Z., Gupta, S., Noorwali, A., Chakraborty, C., & Pani, S. K. (2021, May). MBCP: Performance Analysis of Large Scale Mainstream Blockchain Consensus Protocols. (I. Access, Ed.) 9.
-- **Diana Nagpal**, & Kumar, R. (2021). A Review On Machine Learning Techniques for Human Actions Recognition. Computational Intelligence in analytics and Information Systems. Faridabad.
-- Singh, M., Bhambri, P., **Inderjit Singh, Amit Jain**, & Kaur, K. (2021, April). Data Mining Classifier for Predicting Diabetics. Annals of the Romanian Society for Cell Biology, 25(4).
+- [Pankaj Bhambhri, Manpreet Singh, **Amit Jain, Inderjit Singh Dhanoa**, Vijay Kumar Sinha & Shyam Lal (2021, June). Classification of Gene Expression Data with the Aid of Optimized Feature Selection. Turkish Journal of Physiotherapy and Rehabilitation, 32(3).](https://turkjphysiotherrehabil.org/pub/pdf/321/32-1-142.pdf)
+- [Navdeep Kaur Deol, **Vivek Thapar, Jaswant Singh.** (2021, September). Movies Reviews Sentiment Analysis using Improved Random Forest Algorithm and ACO (Ant Colony Optimization) Approach. International Journal of Computer Sciences and Engineering, 9(9).](https://www.ijcseonline.org/pdf_paper_view.php?paper_id=5390&4-IJCSE-08697.pdf)
+- [Isha, **Jasbir Singh Saini & Kamaldeep Kaur** (2021, July). A Machine Learning Approach for Network Traffic Classification. International Journal of Engineering Research in Computer Science & Engineering, 8(7).](https://www.technoarete.org/common_abstract/pdf/IJERCSE/v8/i7/Ext_07294.pdf)
+- [**Amit Jain**, Vikrant Aggarwal, Rakesh Kumar & Harmeet Singh Pabla (2021). Availability and Optimization of Continuous Manufacturing System Using Markov Modelling and Genetic Algorithm. International Conference on Communication and Artificial Intelligence. Mathura: Springer Lecture Notes in Networks and Systems.](https://link.springer.com/chapter/10.1007/978-981-33-6546-9_24)
+- [**Amit Jain**, Manpreet Singh & Pankaj Bhambri (2021, February). Performance evaluation of IPv4-IPv6 tunneling procedure using IoT. Journal of Physics.](https://iopscience.iop.org/article/10.1088/1742-6596/1950/1/012010/meta)
+- [Kanika, **Vivek Thapar & Gurjit Kaur** (2021, July). Analysis of Various Image Blind Detection Techniques: Review. International Journal of Engineering Research in Computer Science & Engineering, 8(7).](https://www.technoarete.org/common_abstract/pdf/IJERCSE/v8/i7/Ext_05917.pdf)
+- [Kanika, **Vivek Thapar & Gurjit Kaur** (2021, July). Image Blind Detection Using GLCM, ABC and Voting Classification Method. International Journal of Engineering Research in Computer Science & Engineering, 8(7).](https://www.technoarete.org/common_abstract/pdf/IJERCSE/v8/i7/Ext_05126.pdf)
+- [Baldeep Kaur, **Sumeet Kaur Sehra & Daljit Singh** (2021, July). An Ensemble Classification Model For Software Defect Prediction. International Journal of Engineering Research in Computer Science & Engineering, 8(7).](https://www.technoarete.org/common_abstract/pdf/IJERCSE/v8/i7/Ext_64715.pdf)
+- [**kamaldeep Kaur & Parminder Singh** (2021, December). Punjabi Emotional Speech Database: Design, Recording and Verification. International Journal of Intelligent Systems and Applications in Engineering, 9(4).](https://www.ijisae.org/IJISAE/article/view/1393)
+- [**Manpreet Kaur**, Mohammad Zubair Khan, Shikha Gupta, Abdul fattah Noorwali, Chinmay Chakraborty & Subhendu Kumar Pani (2021, May). MBCP: Performance Analysis of Large Scale Mainstream Blockchain Consensus Protocols. (I. Access, Ed.) 9.](https://ieeexplore.ieee.org/abstract/document/9444429)
+- [Manpreet Singh, Pankaj Bhambri, **Inderjit Singh, Amit Jain** & Kirandeep Kaur (2021, April). Data Mining Classifier for Predicting Diabetics. Annals of the Romanian Society for Cell Biology, 25(4).](https://ores.su/en/journals/annals-of-the-romanian-society-for-cell-biology/)
+- [**Diana Nagpal** & Rajiv Kumar (2021). A Review On Machine Learning Techniques for Human Actions Recognition. Computational Intelligence in analytics and Information Systems. Faridabad.](https://www.appleacademicpress.com/computational-intelligence-in-analytics-and-information-systems-2-volume-set-volume-1-data-science-and-ai-selected-papers-from-ciais-2021-volume-2-advances-in-digital-transformation-selected-papers-from-ciais-2021-/9781774911426)
 
-## Events Attended (FDPs/Conferences/STCs/SDTs/Workshops/Webinars/Seminars/Training Program etc.)  
 
-| Sr. No. | Name of Event                                                                                                                 | Faculty Coordinator                                           | Duration | Date(s)                | Organizer(s)                                     |
+## Events Attended (FDPs/ Conferences / STCs /SDTs / Workshops / Webinars / Seminars /Training Program etc.)  
+
+| Sr. No. | Name of Event                                                                                                                 | Faculty Coordinator                                           | Duration | Date(s)                | Organizer(s)                                 |
 |:--------|:------------------------------------------------------------------------------------------------------------------------------|:--------------------------------------------------------------|:---------|:-----------------------|:-----------------------------------------------|
 | 1       | Workshop on Hands on Training for Digital Teaching Aids           | Er. Mandeep Kaur | One Day | 07 January, 2021   | GNDEC Ludhiana |
 | 2       | Workshop on Hands on Training for Digital Teaching Aids           | Er. Priyanka Arora | One Day | 07 January, 2021   | GNDEC Ludhiana |
@@ -52,6 +55,11 @@
 | 14       | One week Online workshop on ICT Initiatives in Technical Education           | Er. Jaswant Singh | One Day | 8-13 February, 2021   | GNDEC, Ludhiana |
 | 15       | Two week Online workshop on Data Science & Analytics           | Er. Jaswant Singh | Two Week | 11-23 February, 2021   | IIT Gandhi Nagar |
 | 16       | One Day webinar on Womes's health and wellness| Er. Priti Aggarwal | One Day | 10 March, 2021   | IEEE |
+
+## Student Corner   
+
+- Two students URN 1706410, Ayushi Sharma and URN 1706461	Kunika Malhotra	got placed at a highest package of 18.17 Lakh per Annum in Walmart Global Technology Services India in 2021.
+- Also, a total of 155 students got placed in 29 other good companies.
 
 ## Departmental Placements (Batch 2017-2021)  
 
@@ -93,7 +101,7 @@
 
 
 ## Expert Talks held:
-| Sr. No. | Name of Expert with Designation and Company                                                                                                                 | Audience                                           | Topic of Expert talk | Date(s)                | Timings                                     |
+| Sr. No. | Name of Expert with Designation and Company                                                                                                                | Audience                                           | Topic of Expert Talk  | Date(s)                | Timings(s)                                 |
 |:--------|:------------------------------------------------------------------------------------------------------------------------------|:--------------------------------------------------------------|:---------|:-----------------------|:-----------------------------------------------|
 | 1       | Mr. Bharat Gulati, Delivery Head, ASG Technologies, Delhi           | B.Tech. (CSE-5th Semester) | Statistics for Data Science |  15 December, 2021   | 5:00 PM|
 | 2       | Mr. Maninder Singh, Senior Software Developer, Accenture, Bangalore           | B.Tech. (CSE-5th Semester) | Artificial Intelligence |  4 December, 2021   | 11:00 AM|
