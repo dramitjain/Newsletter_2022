@@ -9,6 +9,108 @@
 
 <div align = "justify"> Department of Computer Science and Engineering is established in year 1997. Department is offering B.Tech. and M.Tech. programs in Computer Science and Engineering. Laboratories of the department are equipped with state of the art infrastructure to cater course work and research activities. A Good number of books is available in departmental library for prompt access to students and faculty members. Under academic autonomy, study schemes of the offered programs are updated regularly focusing outcome based education, to make students employable as per national and international requirements. Graduates of the department are serving around the globe in eminent companies, academia, as well as in public sector. They are bringing laurel to the department by excelling in fields of their work. Every year a good number of students are clearing different competitive exams</div>
 
+## Student Coordinator
+- Harmehak Singh Khangura (1905103)
+- Gurleen Kaur (1904995)
+- Dupesh Malhan (2004562)
+- Ramneet Kaur Sekhon (2004647)
+
+## Student Achievements
+<div align = "justify"><div>
+
+- Harveer Singh URN: 1805183, Student of 2018-2022 Batch got placed at a highest package of 51 Lakh per Annum in Microsoft.
+- Two students of CSE Department (2017-2021 Batch) URN 1706410, Ayushi Sharma and URN 1706461 Kunika Malhotra got placed at a highest package of 18.17 Lakh per Annum in Walmart Global Technology Services India in 2021.
+- Nitin Goyal, Anshik Thakur, Bhavneet, Ashwin, Aaina, Harshil, Participated in Grand Finale, Smart India Hackathon, 2022, Organized at KL university, Vijaywada, Andhra Pradesh.   
+- Punar Partap Singh Sidhu URN: 1905032 has been selected in Junior National Shooting Squad.
+
+### Students of CSE Department has successfully cleared various NPTEL MOOC’s courses
+| Sr.No. | Name                    | U.R. No. | Course Name                                   | Year |
+|:--------|:-------------------------|:----------|:-----------------------------------------------|:------|
+| 1      | Anmol Mittal            | 2004540  | Ethical Hacking                               | 2022 |
+| 2      | Devanshi Singh          | 2004558  | Ethical Hacking                               | 2022 |
+| 3      | Harsh Verma             | 2004586  | Online Privacy                                | 2022 |
+| 4      | Harsh Verma             | 2004586  | Ethical Hacking                               | 2022 |
+| 5      | Nishant Khanna          | 2115093  | The Joy of Computing using Python             | 2022 |
+| 6      | Prabhdeep Kaur          | 2004640  | Ethical Hacking                               | 2022 |
+| 7      | Rohit                   | 2004653  | Ethical Hacking                               | 2022 |
+| 8      | Rohit                   | 2004653  | Introduction to Industry 4.0 and IIOT         | 2022 |
+| 9      | Rohit                   | 2004653  | Statistical Learning for Reliability Analysis | 2022 |
+| 10     | Saurav Sharma           | 2004662  | Ethical Hacking                               | 2022 |
+| 11     | Saurav Sharma           | 2004662  | Online Privacy                                | 2022 |
+| 12     | Yakshi Puri             | 2004688  | Ethical Hacking                               | 2022 |
+| 13     | Yakshi Puri             | 2004688  | Social Networks                               | 2022 |
+| 14     | Harmehak Singh Khangura | 1905103  | Introduction to Industry 4.0 and IIOT         | 2022 |
+| 15     | Harmehak Singh Khangura | 1905103  | Online Privacy                                | 2022 |
+| 16     | Harmehak Singh Khangura | 1905103  | Social Network Analysis                       | 2022 |
+| 17     | Harmehak Singh Khangura | 1905103  | Solar Energy Engineering and Technology       | 2022 |
+| 18     | Gurleen Kaur            | 1904995  | Ethical Hacking                               | 2022 |
+| 19     | Gurleen Kaur            | 1904995  | Online Privacy                                | 2022 |
+| 20     | Nitin Goyal             | 1905026  | Deep Learning                                 | 2022 |
+| 21     | Jaskamal Singh          | 1905006  | Online Privacy                                | 2022 |
+| 22     | Kanav Dua               | 1905011  | Ethical Hacking                               | 2022 |
+| 23     | Kanav Dua               | 1905011  | Introduction to Industry 4.0 and IOT          | 2022 |
+| 24     | Kanav Dua               | 1905011  | Conservation Geography                        | 2022 |
+| 25     | Blossom                 | 1904984  | Online Privacy                                | 2022 |
+| 26     | Gurleen Kaur            | 1904994  | Online Privacy                                | 2022 |
+| 27     | Gurleen Kaur            | 1904994  | Ethical Hacking                               | 2022 |
+| 28     | Jasmine Kaur Gill       | 1905008  | Online Privacy                                | 2022 |
+| 29     | Jasleen Kaur            | 1905007  | Online Privacy                                | 2022 |
+| 30     | Shantanu Kumar          | 1905049  | Ethical Hacking                               | 2022 |
+| 31     | Vishal Dutta            | 1905062  | Ethical Hacking                               | 2022 |
+| 32     | Prabhjot Singh          | 1905029  | Ethical Hacking                               | 2022 |
+| 33     | Avneet Kaur             | 2004556  | Social Networks                               | 2021 |
+| 34     | Harsh Verma             | 2004586  | Social Networks                               | 2021 |
+| 35     | Harsh Verma             | 2004586  | The Joy of Computing using Python             | 2021 |
+| 36     | Karandeep Singh         | 2004608  | Problem Solving through Programming in C      | 2021 |
+| 37     | Karandeep Singh         | 2004608  | Programming, DS and Algo using Python         | 2021 |
+| 38     | Karandeep Singh         | 2004608  | The Joy of Computing using Python             | 2021 |
+| 39     | Muskandeep Kaur         | 2004628  | Social Networks                               | 2021 |
+| 40     | Prabhdeep Kaur          | 2004640  | Social Networks                               | 2021 |
+| 41     | Rajat Kapoor            | 2004646  | Social Networks                               | 2021 |
+| 42     | Rohit                   | 2004653  | Social Networks                               | 2021 |
+| 43     | Saurav Sharma           | 2004662  | Social Networks                               | 2021 |
+| 44     | Harmehak Singh Khangura | 1905103  | Social Networks                               | 2021 |
+| 45     | Harmehak Singh Khangura | 1905103  | The Joy of Computing using Python             | 2021 |
+| 46     | Harmehak Singh Khangura | 1905103  | Introduction to Machine Learning              | 2021 |
+| 47     | Gurleen Kaur            | 1904995  | The Joy of Computing using Python             | 2021 |
+| 48     | Nitin Goyal             | 1905026  | Data Analytics with Python                    | 2021 |
+| 49     | Jaskamal Singh          | 1905006  | Social Networks                               | 2021 |
+| 50     | Jaskamal Singh          | 1905006  | Data Analytics with Python                    | 2021 |
+| 51     | Kanav Dua               | 1905011  | The Joy of Computing using Python             | 2021 |
+| 52     | Kanav Dua               | 1905011  | Real -Time Systems                            | 2021 |
+| 53     | Blossom                 | 1904984  | The Joy of Computing using Python             | 2021 |
+| 54     | Blossom                 | 1904984  | Introduction to Internet Of Things            | 2021 |
+| 55     | Jasmine Kaur Gill       | 1905008  | Social Networks                               | 2021 |
+| 56     | Jasmine Kaur Gill       | 1905008  | Introduction to Internet Of Things            | 2021 |
+| 57     | Jasleen Kaur            | 1905007  | The Joy of Computing using Python             | 2021 |
+| 58     | Shantanu Kumar          | 1905049  | Real-Time Systems                             | 2021 |
+| 59     | Shantanu Kumar          | 1905049  | Social Networks                               | 2021 |
+| 60     | Shantanu Kumar          | 1905049  | The Joy of Computing using Python             | 2021 |
+| 61     | Shantanu Kumar          | 1905049  | Introduction to Internet Of Things            | 2021 |
+| 62     | Gurinder Singh          | 1904992  | Social Networks                               | 2021 |
+| 63     | Vishal Dutta            | 1905062  | The Joy of Computing using Python             | 2021 |
+| 64     | Vishal Dutta            | 1905062  | Data Analytics with Python                    | 2021 |
+| 65     | Prabhjot Singh          | 1905029  | Optical Engineering                           | 2021 |
+| 66     | Vrishti Gupta           | 1905064  | The Joy of Computing using Python             | 2021 |
+| 67     | Priyanka Jhamb          | 1905379  | Design Thinking - A Primer                    | 2021 |
+| 68     | Priyanka Jhamb          | 1905379  | The Joy of Computing using Python             | 2021 |
+| 69     | Sehajbir Singh          | 1905046  | Data Analytics with Python                    | 2021 |
+| 70     | Sehajbir Singh          | 1905046  | Data Science for Engineers                    | 2021 |
+| 71     | Harmehak Singh Khangura | 1905103  | Introduction to Internet Of Things            | 2020 |
+| 72     | Gurleen Kaur            | 1904995  | Introduction to Internet Of Things            | 2020 |
+| 73     | Nitin Goyal             | 1905026  | Data Structure and Algorithms using Java      | 2020 |
+| 74     | Nitin Goyal             | 1905026  | Design and Analysis and Algorithms            | 2020 |
+| 75     | Jaskamal Singh          | 1905006  | The Joy of Computing using Python             | 2020 |
+| 76     | Kanav Dua               | 1905011  | Introduction to Machine Learning              | 2020 |
+| 77     | Kanav Dua               | 1905011  | Social Networks                               | 2020 |
+| 78     | Shantanu Kumar          | 1905049  | Introduction to Machine Learning              | 2020 |
+| 79     | Anjandeep Kaur          | 1904978  | Introduction to Internet Of Things            | 2020 |
+| 80     | Vrishti Gupta           | 1905064  | Problem Solving through Programming in C      | 2020 |
+| 81     | Sehajbir Singh          | 1905046  | Python for Data Science                       | 2020 |
+| 82     | Priyanka Jhamb          | 1905379  | Developing Soft Skills and Personality        | 2019 |
+
+
+
 ## Faculty Achievements  
 
 <div align = "justify"><div>
