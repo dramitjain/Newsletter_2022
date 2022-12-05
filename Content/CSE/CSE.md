@@ -109,6 +109,17 @@
 | 81     | Sehajbir Singh          | 1905046  | Python for Data Science                       | 2020 |
 | 82     | Priyanka Jhamb          | 1905379  | Developing Soft Skills and Personality        | 2019 |
 
+### Students/ Faculty Conference Publications
+| Sr. No. | Title of Paper                                                                             | Name of Authors                      | Name of Journal/ Conference                                                               | Level          | Year |
+|---------|--------------------------------------------------------------------------------------------|--------------------------------------|-------------------------------------------------------------------------------------------|----------------|------|
+| 1       | Face Sketch constructor and Identity Attestation                                           | 1. Jasmine Kaur Gill (1905008)       | 10th International Conference on Advancements in Engineering and Technology (ICAET-2022)  | International  | 2022 |
+|         |                                                                                            | 2. Sehajpreet Kaur (1905222)         |                                                                                           |                |      |
+|         |                                                                                            | 3. Blossom (1904894)                 |                                                                                           |                |      |
+|         |                                                                                            | 4. Prof. Gurjit Kaur                 |                                                                                           |                |      |
+| 2       | Aristocratic Trends of Cyber Attacks: Visualizing Ukraine Defended Surface as a Case Study | 1. Harmehak Singh Khangura (1905103) | International Conference on Data Science and Computational Intelligence (ICDSCI-2022)     | International  | 2022 |
+|         |                                                                                            | 2.Khushanpreet Singh (1905012)       |                                                                                           |                |      |
+|         |                                                                                            | 3. Harpreet Singh (2004694)          |                                                                                           |                |      |
+|         |                                                                                            |  4. Dr. Daljit Singh                 |
 
 
 ## Faculty Achievements  
