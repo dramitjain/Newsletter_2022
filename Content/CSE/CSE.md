@@ -121,6 +121,29 @@
 |         |                                                                                            | 3. Harpreet Singh (2004694)          |                                                                                           |                |      |
 |         |                                                                                            |  4. Dr. Daljit Singh                 |
 
+## Students of CSE participated and bagged various positions in IKGPTU Zonal Youth Festival
+| S.No. | Name             | URN     | Name of Event                                                                           | Level |
+|-------|------------------|---------|-----------------------------------------------------------------------------------------|-------|
+| 1     | Avaluday Singh   | 2004554 | Bhangra  (1st Position), IKG Punjab Technical University Zonal Youth Festival           | Zonal |
+| 2     | Taranpreet Kaur  | 2004678 | Gidha (2nd Position), IKG Punjab Technical University Zonal Youth Festival              | Zonal |
+| 3     | Hushanpreet Kaur | 2004588 | Gidha (2nd Position), IKG Punjab Technical University Zonal Youth Festival              | Zonal |
+| 4     | Nidhi            | 2004630 | Gidha (2nd Position), IKG Punjab Technical University Zonal Youth Festival              | Zonal |
+| 5     | Parminder Kaur   | 2004558 | Gidha (2nd Position), IKG Punjab Technical University Zonal Youth Festival              | Zonal |
+| 6     | Ayush Kalia      | 2215003 | Western Group Song (1st Position), IKG Punjab Technical University Zonal Youth Festival | Zonal |
+| 7     | Ashish Baweja    | 2104078 | Group Shabad (1st Position), IKG Punjab Technical University Zonal Youth Festival       | Zonal |
+| 8     | Karthik K.       | 2104134 | Group Shabad/Group Song Indian, IKG Punjab Technical University Zonal Youth Festival    | Zonal |
+|       |                  |         | (1st & 2nd Position)                                                                    |       |
+| 9     | Vansh Khanna     | 2004683 | Group Shabad/Group Song Indian                                                          | Zonal |
+|       |                  |         | (1st & 2nd Position), IKG Punjab Technical University Zonal Youth Festival              |       |
+| 10    | Yogita Sharma    | 1905835 | Light Indian Vocal/Group Song Indian                                                    | Zonal |
+|       |                  |         | (2nd Position), IKG Punjab Technical University Zonal Youth Festival                    |       |
+| 11    | Ekuspreet Singh  | 2115043 | Elocution/Essay Writing                                                                 | Zonal |
+|       |                  |         | (2nd Position), IKG Punjab Technical University Zonal Youth Festival                    |       |
+| 12    | Naval            | 2104226 | Quiz                                                                                    | Zonal |
+|       |                  |         | (1st Position), IKG Punjab Technical University Zonal Youth Festival                    |       |
+| 13    | Vivek Thakur     | 2004687 | On The Spot Painting                                                                    | Zonal |
+|       |                  |         | (1st Position), IKG Punjab Technical University Zonal Youth Festival                    |
+
 
 ## Faculty Achievements  
 
@@ -174,44 +197,22 @@
 - Two students URN 1706410, Ayushi Sharma and URN 1706461	Kunika Malhotra	got placed at a highest package of 18.17 Lakh per Annum in Walmart Global Technology Services India in 2021.
 - Also, a total of 155 students got placed in 29 other good companies.
 
-## Departmental Placements (Batch 2017-2021)  
-
-- **Two students URN 1706410, Ayushi Sharma and URN 1706461	Kunika Malhotra	got placed at a highest package of 18.17 Lakh per Annum in Walmart Global Technology Services India in 2021.**
-- Also, a total of 155 students got placed in 29 other good companies.
-
-| Sr. No. | Name of Company                                                                                                                | Number of Students Placed                                           |
-|:--------|:------------------------------------------------------------------------------------------------------------------------------|:--------------------------------------------------------------|
-| 1       |    ASG Technologies Pvt. Ltd. |     2     |
-| 2       |  Accenture          |     4     |
-| 3       |  BizMerlin HR        |     16     |
-| 4       |  CAELIUS Consulting         | 1         |
-| 5       |  Capital Via         |         3 |
-| 6       |  Cognizant         |         20 |
-| 7       |  Education Culture Pvt. Ltd.         |2          |
-| 8       |  EPAM India         |        1  |
-| 9       |  EPSILON          |         1 |
-| 10       |  HCL Technologies Ltd.           | 12         |
-| 11       |   Infosys Limited      |  27        |
-| 12       |   Metacube Software Private limited  |    1      |
-| 13       |   Mphasis         |       1   |
-| 14       |   Nagarro         |        5  |
-| 15       |   NCR Corporation India Pvt. Ltd.  |  1        |
-| 16       |   Om Careers         |        2  |
-| 17       |   Orion eSolutions (P) Ltd.         | 1         |
-| 18       |   Relinns  |         3 |
-| 19       |   Sach Tech Solution  Pvt. Ltd., Mohali | 2 |
-| 20       |   SafeAeon (India)     |         1 |
-| 21       |   Soft Prodigy System Solutions (P) Ltd. |1
-| 22       |   TATRAS Data Services Pvt. Ltd.     |    2      |
-| 23       |  TCS (Digital)          |      3    |
-| 24       |   TCS (Ninja)         |         28 |
-| 25       |   Tekki Web Soluctions Pvt. Ltd.     | 1         |
-| 26       |   Walmart Global Technology Services India | 2   |
-| 27       |   Xenon Stack         |      10    |
-| 28       |    Yatra Online Freight Services Pvt. Ltd.       |         1 |
-| 29       |  WIPRO Limited      |   1       |
-|        |  **Total Count**      |   **155**       |
-
+## Main recruiters for CSE Students
+| Sr. No. | Name of Company                           |
+|---------|-------------------------------------------|
+| 1       | Microsoft                                 |
+| 2       | Accenture                                 |
+| 3       | Walmart Global Technology Services India  |
+| 4       | Cognizant                                 |
+| 5       | HCL Technologies Ltd.                     |
+| 6       | Infosys Limited                           |
+| 7       | TCS                                       |
+| 8       | WIPRO Limited  Om Careers                 |
+| 9       | TATRAS Data Services Pvt. Ltd.            |
+| 10      | Nagaro                                    |
+| 11      | ASG Technologies Pvt. Ltd.                |
+| 12      | Yatra Online Freight Services Pvt. Ltd.   |
+| 13      | Om Careers                                |
 
 ## Expert Talks held:
 | Sr. No. | Name of Expert with Designation and Company                                                                                                                | Audience                                           | Topic of Expert Talk  | Date(s)                | Timings(s)                                 |
