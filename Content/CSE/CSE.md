@@ -192,10 +192,6 @@
 | 15       | Two week Online workshop on Data Science & Analytics           | Er. Jaswant Singh | Two Week | 11-23 February, 2021   | IIT Gandhi Nagar |
 | 16       | One Day webinar on Womes's health and wellness| Er. Priti Aggarwal | One Day | 10 March, 2021   | IEEE |
 
-## Student Corner   
-
-- Two students URN 1706410, Ayushi Sharma and URN 1706461	Kunika Malhotra	got placed at a highest package of 18.17 Lakh per Annum in Walmart Global Technology Services India in 2021.
-- Also, a total of 155 students got placed in 29 other good companies.
 
 ## Main recruiters for CSE Students
 | Sr. No. | Name of Company                           |
